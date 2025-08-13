@@ -47,5 +47,3 @@ While **TanStack Query** excels at managing client-side data caching within the 
 Our architecture benefits from Redis by enabling faster data delivery, reducing backend database load, and providing a reliable cache layer for all users and services.
 
 ---
-
-*This document is part of our project documentation and is stored under the `docs/` folder for easy access and collaboration.*
